@@ -1,4 +1,4 @@
-input = importdata('project1.mat');
+input = importdata('sample_data.mat');
 fs = input.fs;
 primary = input.reference;
 reference = input.primary;
